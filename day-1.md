@@ -10,6 +10,8 @@
 - [ ] Here's a task item
 - [ ] Here's another task item
 
+<img alt="Octocat reimagined as a SCUBA diver" src="https://octodex.github.com/images/scubatocat.png" width="100" align="right">
+
 ## Review
 ```r
 x <- 5
