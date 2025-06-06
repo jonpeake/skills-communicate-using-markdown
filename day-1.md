@@ -11,3 +11,8 @@
 - [ ] Here's another task item
 
 ## Review
+```r
+x <- 5
+x
+print('Hello, world!')
+```
