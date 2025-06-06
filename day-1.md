@@ -1,5 +1,11 @@
 # Daily Learning
 
+**This text is bolded**
+
+*This text is italicized*
+
+`This is some in-line code`
+
 ## Morning Planning
 - Here's an unordered list item
 - here's another
