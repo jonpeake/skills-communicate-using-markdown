@@ -1,5 +1,5 @@
-# My first blog
+# Daily Learning
 
-## Morning tasks
+## Morning Planning
 
-## Review material
+## Review
