@@ -1,20 +1,26 @@
-# Congratulations! :tada:
+# Daily Learning
 
-<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+**This text is bolded**
 
-Yay **jonpeake** you finished the exercise! Nice work :tada:
+*This text is italicized*
 
-If you would like to retrace your steps, you can always revisit the exercise.
+`This is some in-line code`
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jonpeake/skills-communicate-using-markdown/issues/1)
+## Morning Planning
+- Here's an unordered list item
+- here's another
 
-> [!TIP]
-> Mona won't grade you this time! 😉
+1. Here's an ordered list item
+2. here
 
+- [ ] Here's a task item
+- [ ] Here's another task item
 
-### Craving more? :raising_hand:
+<img alt="Octocat reimagined as a SCUBA diver" src="https://octodex.github.com/images/scubatocat.png" width="100" align="right">
 
-Did you enjoy this practical style of learning? There's no better way to learn than building things, right?!
-
-Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
-
+## Review
+```r
+x <- 5
+x
+print('Hello, world!')
+```
