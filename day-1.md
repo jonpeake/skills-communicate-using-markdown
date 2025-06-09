@@ -1,5 +1,11 @@
 # Daily Learning
 
+**bold text**
+
+*italicized text*
+
+`in-line code`
+
 ## Morning Planning
 
 1. Ordered list, first item
